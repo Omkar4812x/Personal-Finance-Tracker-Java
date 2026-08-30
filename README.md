@@ -1,22 +1,44 @@
-# Personal Finance Tracker Java
+# 💰 Personal Finance Tracker (Java)
 
-## 📌 Description
-Welcome to **Personal Finance Tracker Java**! This project is part of the curated software workspace.
+> **Core Java desktop application for tracking personal income, expenses, monthly budget limits, and financial reporting.**
+
+---
+
+## ✨ Features
+
+- 💵 **Income & Expense Logging**
+  - Record transactions with categories, dates, payment methods, and descriptions.
+- 🎯 **Monthly Budget Limits**
+  - Set spending thresholds per category with visual warning alerts.
+- 📊 **Financial Summary & Analytics**
+  - Compute total savings, net income, spending breakdown, and export ledger logs.
+
+---
+
+## 🛠️ Tech Stack
+
+- **Language**: Core Java (JDK 17+)
+- **GUI Framework**: Java Swing / AWT
+- **Persistence**: File I/O / JDBC
+
+---
 
 ## 🚀 Getting Started
 
-### Prerequisites
-Ensure you have the required runtime environment installed for this project:
-- **Node.js** (if applicable for web/frontend components)
-- **Python 3.10+** (if applicable for AI/voice scripts)
-- **Java JDK 17+** (if applicable for Java applications)
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/Omkar4812x/Personal-Finance-Tracker-Java.git
+   cd Personal-Finance-Tracker-Java
+   ```
 
-### Installation & Execution
-1. Clone this repository to your local machine.
-2. Install dependencies:
-   - For Node.js projects: `npm install`
-   - For Python projects: `pip install -r requirements.txt` (or create a venv: `python -m venv venv`)
-3. Launch the application entry point.
+2. **Compile and Run**:
+   ```bash
+   javac -d bin src/*.java
+   java -cp bin Main
+   ```
 
-## 📄 License & Attribution
-Created and maintained as part of the Tech Hub projects collection.
+---
+
+## 📄 License
+
+Distributed under the MIT License.
