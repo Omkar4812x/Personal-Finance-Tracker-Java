@@ -7,11 +7,11 @@
 ## ✨ Features
 
 - 💵 **Income & Expense Logging**
-  - Record transactions with categories, dates, payment methods, and descriptions.
+  - Record transactions with categories, dates, payment methods, ad descriptions.
 - 🎯 **Monthly Budget Limits**
-  - Set spending thresholds per category with visual warning alerts.
+  - Set spending thresholds per category with visual warning alerts
 - 📊 **Financial Summary & Analytics**
-  - Compute total savings, net income, spending breakdown, and export ledger logs.
+  - Compute total savings, net income, spending breakdown, and export ledger logs
 
 ---
 
